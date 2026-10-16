@@ -1,8 +1,8 @@
 # Activity-4-Collaborate-Group-Projects
 Collaborating on group projects for Group 4, BSIS-3C, by adding group members and the professor as repository collaborators
 # Roles
-Scrum Master: Ruvic Bridget L. Atay 
-Backend Engineer 1: Charlize Mira D. Sarne
-Backend Engineer 2: Nicole Shane Q. Laririt
-Full Stack Engineer: Desiree Nicole D. Rosacena
-Front End Lead: Blessy Anne A. Igdoy 
+Introduction: Ruvic Bridget L. Atay 
+Review of Related Literature: Charlize Mira D. Sarne
+Methodology: Nicole Shane Q. Laririt
+Results and Discussion: Desiree Nicole D. Rosacena
+Documentation and Compilation: Blessy Anne A. Igdoy 
