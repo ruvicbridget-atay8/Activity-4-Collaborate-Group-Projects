@@ -1,0 +1,14 @@
+Documentation and Compilation
+This file contains the compiled documentation for the research project, including the Introduction, Methodology, Review of Related Literature, and other relevant sections.
+
+Assigned Member: Blessy Anne A. Igdoy
+
+Purpose: To compile and organize the project's documentation into a single file for easier access, reference, and collaboration among group members.
+---
+Table of Contents
+1. Introduction
+2. Review of Related Literature
+3. Methodology
+4. Results and Discussion
+5. Conclusion
+6. References
